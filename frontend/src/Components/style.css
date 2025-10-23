@@ -1,0 +1,13 @@
+.loginPage {
+  background: url("img/login2.jpg");
+  background: linear-gradient(rgba(10, 10, 10, 0.5), rgba(0, 0, 0, 0.5)),
+    url("img/login2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+}
+
+.loginForm {
+  background-color: rgba(1, 32, 93, 0.6);
+  color: white;
+}
